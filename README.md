@@ -8,3 +8,4 @@
 7. Em "Source" ou "Branch", selecione: Branch: Main ou Master, Pasta: /(root)
 8. Clique em "save" e está pronto
 9. Depois de alguns segundos, seu site estará no ar no link:
+10. https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
